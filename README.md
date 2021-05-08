@@ -2,6 +2,8 @@
 
 The application is a paint application where user can draw freehand or draw basic geometric figures.
 
+#### The application is designed for Nexus 7 Tablet
+
 The application has few edit options like erase and undo and clear the canvas.
 
 The figure can be stroke or fill colors
@@ -16,3 +18,4 @@ The below diagram displays the geometric figures which can be drawn using the ap
 
 <img src=https://user-images.githubusercontent.com/56184814/117527180-aea27a80-af8f-11eb-95a5-af64db51ae00.png width =500>
 
+## Note : To Modify the menu to fit in your device, re-arrange the activity.xml file for various menu option 
