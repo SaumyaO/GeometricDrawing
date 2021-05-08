@@ -1,4 +1,7 @@
- package com.saumya.geometricdrawing;
+// License: Apache License 2.0
+// Attribution : Saumya Omanakuttan
+
+package com.saumya.geometricdrawing;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
