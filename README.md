@@ -19,3 +19,7 @@ The below diagram displays the geometric figures which can be drawn using the ap
 <img src=https://user-images.githubusercontent.com/56184814/117527180-aea27a80-af8f-11eb-95a5-af64db51ae00.png width =500>
 
 ## Note : To Modify the menu to fit in your device, re-arrange the activity.xml file for various menu option 
+#  License: 
+Apache License 2.0
+
+Attribution : Saumya Omanakuttan
